@@ -10,4 +10,9 @@ React Single Page Application
 
 ## How are we building it?
 
-Gatsby / Create React App
+### Gatsby
+
+##### * + repo
+##### * git clone https://github.com/steven-barkley/website-codeforsouth.git
+##### * touch README.md
+##### * npx gatsby new codesforsouth
