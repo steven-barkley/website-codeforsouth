@@ -12,7 +12,7 @@ React Single Page Application
 
 ### Gatsby
 
- * + repo
+ * Create new repository
  * git clone https://github.com/steven-barkley/website-codeforsouth.git
  * touch README.md
  * npx gatsby new codesforsouth
