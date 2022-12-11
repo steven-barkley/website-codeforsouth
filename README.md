@@ -6,7 +6,7 @@ React Single Page Application
 
 ## When are we completing the website?
 
-10 days or less 11/19/2022
+Original Goal: 11/19/2022 New Goal: N/A TBA depending on interaction and time constraints. 
 
 ## How are we building it?
 
